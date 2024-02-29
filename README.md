@@ -9,7 +9,7 @@ https://docs.google.com/document/d/1RtcY2vmKSOJgMpbbOF4eW88gAfgN6zxu4g9YWIx2kTw/
 
 
 ## Unit-01
-https://github.com/dratul/Electronics-Engineering-BEC-201-/tree/main/Unit_01
+https://github.com/dratul/Electronics-Engineering-BEC-201-/tree/main/Unit_01_PN_Junction
 
 
 

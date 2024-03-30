@@ -23,6 +23,10 @@ https://youtu.be/F-UbB9UkbBg?si=YEfwH7n_1H7Fl2m6
 ## VI Characteristics of diode
 [Click to watch](https://www.youtube.com/live/fkEUNnC5cCM?si=4S-I_0lQ1ed79mKa)
 
+
+## Equivalaent model of diode
+[Click to watch](https://www.youtube.com/live/2uza4qkaXQk?si=2WWI5tuhxt6G4u79)
+
 ## Videos lectures and Notes
 [Click to watch](https://docs.google.com/document/d/1RtcY2vmKSOJgMpbbOF4eW88gAfgN6zxu4g9YWIx2kTw/edit?usp=sharing)
 

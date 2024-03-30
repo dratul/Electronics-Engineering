@@ -1,7 +1,10 @@
-# Electronics-Engineering
-This is for Electronics Engineering Subject related downloads
+# Unit-01
+This is for PN Junction diode
 
-## Download syllabus
+## Introduction
+https://github.com/dratul/Electronics-Engineering-BEC-201-/blob/main/Syll.pdf
+
+## Depletion layer
 https://github.com/dratul/Electronics-Engineering-BEC-201-/blob/main/Syll.pdf
 
 ## Videos lectures and Notes

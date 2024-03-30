@@ -25,7 +25,7 @@ https://youtu.be/F-UbB9UkbBg?si=YEfwH7n_1H7Fl2m6
 
 
 ## Equivalaent model of diode
-[Click to watch](https://www.youtube.com/live/2uza4qkaXQk?si=2WWI5tuhxt6G4u79)
+[Click to watch](https://youtu.be/Irz_Z3lvG6M)
 
 ## Videos lectures and Notes
 [Click to watch](https://docs.google.com/document/d/1RtcY2vmKSOJgMpbbOF4eW88gAfgN6zxu4g9YWIx2kTw/edit?usp=sharing)

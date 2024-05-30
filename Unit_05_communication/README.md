@@ -1,11 +1,17 @@
-# Electronics-Engineering
-This is for Electronics Engineering Subject related downloads
+# Unit 5 Fundamentas of Electronics-Engineering
+Fundamentals of Communication Engineering: Basics of signal representation and
+analysis, Electromagnetic spectrum Elements of a Communication System, Need of
+modulation and typical applications, Fundamentals of amplitude modulation and
+demodulation techniques.
+Introduction to Wireless Communication: Overview of wireless communication,
+cellular communication, different generations and standards in cellular communication
+systems, Fundamentals of Satellite & Radar Communication
+## Basics of Signal representation and analysis
 
-## Download syllabus
-https://github.com/dratul/Electronics-Engineering-BEC-201-/blob/main/Syll.pdf
 
-## Videos lectures and Notes
-https://docs.google.com/document/d/1RtcY2vmKSOJgMpbbOF4eW88gAfgN6zxu4g9YWIx2kTw/edit?usp=sharing
+## Radar
+[click to watch on youtube]
+https://youtu.be/kE_EGhwxdhk
 
 
 

@@ -10,8 +10,7 @@ systems, Fundamentals of Satellite & Radar Communication
 
 
 ## Radar
-[click to watch on youtube]
-https://youtu.be/kE_EGhwxdhk
+[click to watch on youtube](https://youtu.be/kE_EGhwxdhk)
 
 
 

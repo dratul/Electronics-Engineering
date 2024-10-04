@@ -20,8 +20,13 @@ This is for Electronics Engineering Subject related downloads
 ## Unit-04 : Digital
 [click to see](https://github.com/dratul/Electronics-Engineering-BEC-201-/tree/main/Unit_04_digital)
 
-## Unit_05_communication
+## Unit_05_communication [only for 1st year BEC 101T/BET 201T]
 [click to see](https://github.com/dratul/Electronics-Engineering-BEC-201-/tree/main/Unit_05_communication)
 
-
-
+## Unit_05  Electronic instrumentation and measurements: [for 2nd year BOE 038]
+ Digital voltmeter:
+Introduction, RAMP techniques digital multimeters: Introduction
+Oscilloscope: introduction, basic principle, CRT, block diagram of
+oscilloscope, simple, measurement of voltage, current phase and frequency
+using CRO, introduction of digital storage oscilloscope and comparison of
+DSO with analog oscilloscope
